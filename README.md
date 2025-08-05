@@ -48,3 +48,8 @@ Aprenderás desde los fundamentos hasta proyectos avanzados, con ejemplos reales
 git clone https://github.com/PyarmandoCode/BackEnd_Kick
 
 
+## 📚 Videos de Repaso
+
+1️⃣ Instalacion de Python
+[![Video 1](https://img.youtube.com/vi/Ij89scb630s/0.jpg)](https://youtu.be/Ij89scb630s)
+
