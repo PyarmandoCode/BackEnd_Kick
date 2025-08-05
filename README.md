@@ -1,6 +1,6 @@
 # 🚀 Backend Master – Curso en vivo por Kick
 
-![Banner del Curso](assets/banner-kick.png)
+![Banner del Curso](assets/banner.png)
 
 ![Status](https://img.shields.io/badge/Status-Activo-brightgreen?style=flat-square)
 ![Lenguaje](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
