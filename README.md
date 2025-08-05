@@ -47,7 +47,7 @@ Aprenderás desde los fundamentos hasta proyectos avanzados, con ejemplos reales
 # 1. Clonar el repositorio
 git clone https://github.com/PyarmandoCode/BackEnd_Kick
 
-
+```
 ## 📚 Videos de Repaso
 
 ### 1️⃣ Instalación de Python
