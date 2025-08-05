@@ -51,9 +51,9 @@ git clone https://github.com/PyarmandoCode/BackEnd_Kick
 ## 📚 Videos de Repaso
 
 ### 1️⃣ Instalación de Python
-<p align="center">
+
   <a href="https://youtu.be/Ij89scb630s">
     <img src="https://img.youtube.com/vi/Ij89scb630s/0.jpg" alt="Instalación de Python" width="300">
   </a>
-</p>
+
 
