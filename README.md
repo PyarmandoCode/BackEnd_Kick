@@ -79,13 +79,15 @@ git clone https://github.com/PyarmandoCode/BackEnd_Kick
 
 ### 5️⃣ Como Utilizar Condicionales
 
-  <a href="https://youtu.be/HcuDLoEEers">
-    <img src="https://img.youtube.com/HcuDLoEEers/0.jpg" alt="Uso de Condicionales" width="300">
-  </a> 
+<a href="https://youtu.be/HcuDLoEEers">
+  <img src="https://img.youtube.com/vi/HcuDLoEEers/0.jpg" alt="Uso de Condicionales" width="300">
+</a>
+
 
 ### 6️⃣ Operadores Ternarios
 
-  <a href="https://youtu.be/G-70bsoEXMk">
-    <img src="https://img.youtube.com/G-70bsoEXMk/0.jpg" alt="Operadores Ternarios" width="300">
-  </a>
+<a href="https://youtu.be/G-70bsoEXMk" target="_blank">
+  <img src="https://img.youtube.com/vi/G-70bsoEXMk/0.jpg" alt="Operadores Ternarios" width="300">
+</a>
+
 
