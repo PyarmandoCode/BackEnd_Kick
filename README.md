@@ -56,4 +56,36 @@ git clone https://github.com/PyarmandoCode/BackEnd_Kick
     <img src="https://img.youtube.com/vi/Ij89scb630s/0.jpg" alt="Instalación de Python" width="300">
   </a>
 
+### 2️⃣ Tipo de datos
+
+
+  <a href="https://youtu.be/u3wqtptNOx8">
+    <img src="https://img.youtube.com/vi/u3wqtptNOx8/0.jpg" alt="Tipo de datos" width="300">
+  </a>
+
+### 3️⃣ Primeros Pasos en Python
+
+  <a href="https://youtu.be/LUYJ6d1CA38">
+    <img src="https://img.youtube.com/vi/LUYJ6d1CA38/0.jpg" alt="Primeros Pasos" width="300">
+  </a>  
+
+### 4️⃣ Como Utilizar Prompt en python
+
+  <a href="https://youtu.be/Jbhk2W_eDIE">
+    <img src="https://img.youtube.com/vi/Jbhk2W_eDIE/0.jpg" alt="Prompt en python" width="300">
+  </a>   
+
+
+
+### 5️⃣ Como Utilizar Condicionales
+
+  <a href="https://youtu.be/HcuDLoEEers">
+    <img src="https://img.youtube.com/HcuDLoEEers/0.jpg" alt="Uso de Condicionales" width="300">
+  </a> 
+
+### 6️⃣ Operadores Ternarios
+
+  <a href="https://youtu.be/G-70bsoEXMk">
+    <img src="https://img.youtube.com/G-70bsoEXMk/0.jpg" alt="Operadores Ternarios" width="300">
+  </a>
 
